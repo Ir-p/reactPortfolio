@@ -5,7 +5,7 @@ const Portfolio = () => {
 
     return(
         <Card>
-            👍
+
         </Card>
     )
 }

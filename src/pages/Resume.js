@@ -5,7 +5,7 @@ const Resume = () => {
 
     return(
         <Card>
-            👍
+
         </Card>
     )
 }
