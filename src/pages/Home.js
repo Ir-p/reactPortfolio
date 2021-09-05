@@ -1,12 +1,12 @@
 import React from 'react';
-import { Card } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 
 const Home = () => {
 
     return(
-        <Card>
-            👍
-        </Card>
+        <Container style={{height: "40rem"}}>
+       
+        </Container>
     )
 }
 export default Home;
