@@ -1,12 +1,12 @@
 import React from 'react';
-import { Card } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 
 const Resume = () => {
 
     return(
-        <Card>
-
-        </Card>
+        <Container style = {{height: "41.7rem"}}>
+            
+        </Container>
     )
 }
 export default Resume;

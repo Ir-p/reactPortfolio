@@ -35,7 +35,7 @@ const Contact = () => {
     setEmail("");
   };
   return (
-    <Form>
+    <Form style = {{height: "41.7rem"}}>
       <Form.Group>
         <Row>
           <Col>
